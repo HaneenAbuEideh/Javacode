@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner r= new Scanner(System.in);
-        int n = r.nextInt();
+        int n = r.nextInt();//ok
         int cnt=0,i=1,k=2;
         while(k<=n&&i<n)
         {
